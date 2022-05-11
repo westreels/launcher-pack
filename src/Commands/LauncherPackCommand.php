@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Westreels\LauncherPack\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LauncherPackCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'launcher-pack';
 
     public $description = 'My command';
 
